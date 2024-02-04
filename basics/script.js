@@ -35,10 +35,41 @@ multi line comment
 
 // console.log(typeof online);
 
-let name = "Ash F";
-let isStudent = true;
-let age = 22;
+// let name = "Ash F";
+// let isStudent = true;
+// let age = 22;
 
-document.getElementById("p1").textContent = `Name: ${name}`;
-document.getElementById("p2").textContent = `Age: ${age}`;
-document.getElementById("p3").textContent = `isStudent: ${isStudent}`;
+// document.getElementById("p1").textContent = `Name: ${name}`;
+// document.getElementById("p2").textContent = `Age: ${age}`;
+// document.getElementById("p3").textContent = `isStudent: ${isStudent}`;
+
+// let num = 2;
+
+// num = num + 2;
+// num = num - 2;
+// num = num * 2;
+// num = num / 2;
+// num = num ** 3;
+//  num = num % 2;
+
+
+// num += 2;
+// num **= 3;
+// num %= 3;
+
+// num++;
+// num--;
+
+// console.log(num);
+
+/*
+ operator precedence
+ 1. parenthesis
+ 2. exponents
+ 3. mult and div and modulus
+ 4. add and subtract
+ */
+
+//  let result = 1 + 2 * 3 + 4 ** 2;
+
+//  console.log(result);

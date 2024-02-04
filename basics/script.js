@@ -73,3 +73,20 @@ multi line comment
 //  let result = 1 + 2 * 3 + 4 ** 2;
 
 //  console.log(result);
+
+/* 
+USER INPUT
+1. EASY WAY => WINDOW PROMPT
+2. PROFESSIONAL WAY => HTML Textbox
+*/
+// 1
+// let username;
+// username = window.prompt("Whats your username?");
+// console.log(username);
+
+// 2
+// let username;
+// document.getElementById("mySubmit").onclick = function(){
+//     username = document.getElementById("myText").value;
+//     document.getElementById("myH1").textContent = document.getElementById("myH1").textContent + `, ${username}`;
+// };

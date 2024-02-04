@@ -90,3 +90,35 @@ USER INPUT
 //     username = document.getElementById("myText").value;
 //     document.getElementById("myH1").textContent = document.getElementById("myH1").textContent + `, ${username}`;
 // };
+
+
+// type conversion
+
+// let age = window.prompt("Enter age: ");
+// age = Number(age);
+// age += 1;
+// console.log(age, typeof age);
+
+// let x = "hey";
+// let y = "hey";
+// let z = "hey";
+
+// x = Number(x);
+// y = String(y);
+// z = Boolean(z);
+
+// console.log(x,typeof x);
+// console.log(y,typeof y);
+// console.log(z,typeof z);
+
+// let x = "";
+// let y = "";
+// let z = "";
+
+// x = Number(x);
+// y = String(y);
+// z = Boolean(z);
+
+// console.log(x,typeof x);
+// console.log(y,typeof y);
+// console.log(z,typeof z);

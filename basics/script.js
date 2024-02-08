@@ -125,13 +125,28 @@ USER INPUT
 
 // const: constant value
 
-const PI = 3.14159;
-let radius;
-let circumference;
+// const PI = 3.14159;
+// let radius;
+// let circumference;
 
-radius = window.prompt(`Enter Radius of Circle: `);
-radius = Number(radius);
+// radius = window.prompt(`Enter Radius of Circle: `);
+// radius = Number(radius);
 
-circumference = 2 * PI * radius;
+// circumference = 2 * PI * radius;
 
-console.log(circumference);
+// console.log(circumference);
+
+// Math 
+
+console.log(Math.PI);
+console.log(Math.E);
+
+console.log(Math.round(2.2));
+console.log(Math.floor(2.8));
+console.log(Math.ceil(2.1));
+console.log(Math.trunc(2.1));
+console.log(Math.pow(3,2));
+console.log(Math.sqrt(16));
+console.log(Math.log(10));
+console.log(Math.sign(10));
+console.log(Math.max(10,20,30));
